@@ -1,131 +1,132 @@
-background:
-	hex: "#392525"
-	r: 57
-	g: 37
-	b: 37
+vanhelsing:
+	background:
+		hex: "#392525"
+		r: 57
+		g: 37
+		b: 37
 
-comment:
-	hex: "#947777"
-	r: 148
-	g: 119
-	b: 119
+	comment:
+		hex: "#947777"
+		r: 148
+		g: 119
+		b: 119
 
-foreground:
-	hex: "#ffdddd"
-	r: 255
-	g: 221
-	b: 221
+	foreground:
+		hex: "#ffdddd"
+		r: 255
+		g: 221
+		b: 221
 
-red:
-	hex: "#ff5555"
-	r: 255
-	g: 85
-	b: 85
+	red:
+		hex: "#ff5555"
+		r: 255
+		g: 85
+		b: 85
 
-vermilion:
-	hex: "#f5683d"
-	r: 245
-	g: 104
-	b: 61
+	vermilion:
+		hex: "#f5683d"
+		r: 245
+		g: 104
+		b: 61
 
-orange:
-	hex: "#e78127"
-	r: 231
-	g: 129
-	b: 39
+	orange:
+		hex: "#e78127"
+		r: 231
+		g: 129
+		b: 39
 
-yellow:
-	hex: "#d79a1a"
-	r: 215
-	g: 154
-	b: 26
+	yellow:
+		hex: "#d79a1a"
+		r: 215
+		g: 154
+		b: 26
 
-chartruese:
-	hex: "#c7b32a"
-	r: 199
-	g: 179
-	b: 42
+	chartruese:
+		hex: "#c7b32a"
+		r: 199
+		g: 179
+		b: 42
 
-green:
-	hex: "#b4c544"
-	r: 180
-	g: 197
-	b: 68
+	green:
+		hex: "#b4c544"
+		r: 180
+		g: 197
+		b: 68
 
-viridian:
-	hex: "#a3d364"
-	r: 163
-	g: 211
-	b: 100
+	viridian:
+		hex: "#a3d364"
+		r: 163
+		g: 211
+		b: 100
 
-cyan:
-	hex: "#97da88"
-	r: 151
-	g: 218
-	b: 136
+	cyan:
+		hex: "#97da88"
+		r: 151
+		g: 218
+		b: 136
 
-turquoise:
-	hex: "#97d8a8"
-	r: 151
-	g: 216
-	b: 168
+	turquoise:
+		hex: "#97d8a8"
+		r: 151
+		g: 216
+		b: 168
 
-blue:
-	hex: "#a3d0c2"
-	r: 163
-	g: 208
-	b: 194
+	blue:
+		hex: "#a3d0c2"
+		r: 163
+		g: 208
+		b: 194
 
-indigo:
-	hex: "#b6bccd"
-	r: 182
-	g: 188
-	b: 205
+	indigo:
+		hex: "#b6bccd"
+		r: 182
+		g: 188
+		b: 205
 
-violet:
-	hex: "#cda5ce"
-	r: 205
-	g: 165
-	b: 206
+	violet:
+		hex: "#cda5ce"
+		r: 205
+		g: 165
+		b: 206
 
-aubergine:
-	hex: "#e58bc2"
-	r: 229
-	g: 139
-	b: 194
+	aubergine:
+		hex: "#e58bc2"
+		r: 229
+		g: 139
+		b: 194
 
-magenta:
-	hex: "#f36daa"
-	r: 243
-	g: 109
-	b: 170
+	magenta:
+		hex: "#f36daa"
+		r: 243
+		g: 109
+		b: 170
 
-pink:
-	hex: "#fe578d"
-	r: 254
-	g: 87
-	b: 141
+	pink:
+		hex: "#fe578d"
+		r: 254
+		g: 87
+		b: 141
 
-rose:
-	hex: "#ff496d"
-	r: 255
-	g: 73
-	b: 109
+	rose:
+		hex: "#ff496d"
+		r: 255
+		g: 73
+		b: 109
 
-darkblack:
-	hex: "#251314"
-	r: 37
-	g: 19
-	b: 20
+	darkblack:
+		hex: "#251314"
+		r: 37
+		g: 19
+		b: 20
 
-darkgrey:
-	hex: "#6b5252"
-	r: 107
-	g: 82
-	b: 82
+	darkgrey:
+		hex: "#6b5252"
+		r: 107
+		g: 82
+		b: 82
 
-lightgrey:
-	hex: "#caaaaa"
-	r: 202
-	g: 170
-	b: 170
+	lightgrey:
+		hex: "#caaaaa"
+		r: 202
+		g: 170
+		b: 170
