@@ -1,0 +1,133 @@
+---
+
+red:
+	r: 255
+	g: 85
+	b: 85
+	hex: ff5555
+
+vermilion:
+	r: 245
+	g: 104
+	b: 61
+	hex: f5683d
+
+orange:
+	r: 231
+	g: 129
+	b: 39
+	hex: e78127
+
+yellow:
+	r: 215
+	g: 154
+	b: 26
+	hex: d79a1a
+
+chartreuse:
+	r: 199
+	g: 179
+	b: 42
+	hex: c7b32a
+
+green:
+	r: 180
+	g: 197
+	b: 68
+	hex: b4c544
+
+emerald:
+	r: 163
+	g: 211
+	b: 100
+	hex: a3d364
+
+cyan:
+	r: 151
+	g: 218
+	b: 136
+	hex: 97da88
+
+turquoise:
+	r: 151
+	g: 216
+	b: 168
+	hex: 97d8a8
+
+blue:
+	r: 163
+	g: 208
+	b: 194
+	hex: a3d0c2
+
+cornflower:
+	r: 182
+	g: 188
+	b: 205
+	hex: b6bccd
+
+violet:
+	r: 205
+	g: 165
+	b: 206
+	hex: cda5ce
+
+fuchsia:
+	r: 229
+	g: 139
+	b: 194
+	hex: e58bc2
+
+magenta:
+	r: 243
+	g: 109
+	b: 170
+	hex: f36daa
+
+pink:
+	r: 254
+	g: 87
+	b: 141
+	hex: fe578d
+
+rose:
+	r: 255
+	g: 73
+	b: 109
+	hex: ff496d
+
+dark_black:
+	r: 37
+	g: 20
+	b: 20
+	hex: 251414
+
+black:
+	r: 66
+	g: 44
+	b: 44
+	hex: 422c2c
+
+dark_grey:
+	r: 108
+	g: 82
+	b: 82
+	hex: 6c5252
+
+grey:
+	r: 148
+	g: 119
+	b: 119
+	hex: 947777
+
+light_grey:
+	r: 202
+	g: 170
+	b: 170
+	hex: caaaaa
+
+white:
+	r: 255
+	g: 221
+	b: 221
+	hex: ffdddd
