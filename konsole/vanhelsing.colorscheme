@@ -1,5 +1,3 @@
-# --- special colors ---
-
 [Background]
 Color=57,37,37
 
@@ -12,8 +10,6 @@ Color=255,221,221
 [ForegroundIntense]
 Color=255,221,221
 Bold=true
-
-# --- standard colors ---
 
 [Color0]
 Color=57,37,37
