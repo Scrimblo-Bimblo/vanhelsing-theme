@@ -58,13 +58,13 @@ viridian:
 	g: 211
 	b: 100
 
-emerald:
+cyan:
 	hex: "#97da88"
 	r: 151
 	g: 218
 	b: 136
 
-cyan:
+turquoise:
 	hex: "#97d8a8"
 	r: 151
 	g: 216
