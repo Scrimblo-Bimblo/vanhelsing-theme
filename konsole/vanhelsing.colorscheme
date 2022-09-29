@@ -1,3 +1,5 @@
+# --- special colors ---
+
 [Background]
 Color=57,37,37
 
@@ -10,6 +12,8 @@ Color=255,221,221
 [ForegroundIntense]
 Color=255,221,221
 Bold=true
+
+# --- standard colors ---
 
 [Color0]
 Color=57,37,37
@@ -24,37 +28,44 @@ Color=255,85,85
 Color=255,85,85
 
 [Color2]
-Color=180,197,68
+Color=189,189,52
 
 [Color2Intense]
-Color=180,197,68
+Color=189,189,52
 
 [Color3]
-Color=215,154,26
+Color=227,136,39
 
 [Color3Intense]
-Color=215,154,26
+Color=227,136,39
 
 [Color4]
-Color=163,208,194
+Color=176,190,227
 
 [Color4Intense]
-Color=163,208,194
+Color=176,190,227
 
 [Color5]
-Color=243,109,170
+Color=255,77,145
 
 [Color5Intense]
-Color=243,109,170
+Color=255,77,145
 
 [Color6]
-Color=151,218,136
+Color=134,223,191
 
 [Color6Intense]
-Color=151,218,136
+Color=134,223,191
 
 [Color7]
 Color=202,170,170
 
 [Color7Intense]
 Color=255,221,221
+
+# --- general options ---
+
+[General]
+Description=terminal.sexy
+Opacity=1
+Wallpaper=
